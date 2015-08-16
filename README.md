@@ -1,3 +1,3 @@
 # gitLearning
 hello,git
-make a conflict
+make a conflict too
